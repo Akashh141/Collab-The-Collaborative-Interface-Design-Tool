@@ -115,6 +115,17 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 
 **Running the Project**
 
+## Folder Structure
+
+```
+collab/
+├── app/                # Next.js pages
+├── components/         # React components
+├── constants/          # Constants or configurations
+├── hooks/              # Custom hooks
+├── lib/                # Utility functions or external libraries
+└── public/             # Public assets
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
