@@ -46,7 +46,6 @@ A minimalistic collaborative app to show how to add real-world features like liv
 
 ![livecursor](https://github.com/Akashh141/Collab-The-Collaborative-Interface-Design-Tool/assets/123226444/e5acafea-5914-47a4-9d0c-a48722c969bb)
 
-
 👉 **Active Users**: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
 
 👉 **Comment Bubbles**: Enables users to attach comments to specific elements on the canvas, fostering communication and feedback on design components.
@@ -92,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/figma-ts.git
-cd figma-ts
+git clone git@github.com:Akashh141/Collab-The-Collaborative-Interface-Design-Tool.git
+cd Collab-The-Collaborative-Interface-Design-Tool
 ```
 
 **Installation**
