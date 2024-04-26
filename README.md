@@ -115,6 +115,12 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 
 **Running the Project**
 
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+
 ## Folder Structure
 
 ```
@@ -126,14 +132,11 @@ collab/
 ├── lib/                # Utility functions or external libraries
 └── public/             # Public assets
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
+```
 
 ## License
 
 The module is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-```bash
-npm run dev
-```
+
 
